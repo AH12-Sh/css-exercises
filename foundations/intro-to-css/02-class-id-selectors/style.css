@@ -1,0 +1,22 @@
+/* CSS Style sheet for Class and ID selectors */
+
+.odd,
+.cooler {
+    background-color: hsl(351, 100%, 86%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#id1 {
+    color: hsl(196, 57%, 38%);
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
