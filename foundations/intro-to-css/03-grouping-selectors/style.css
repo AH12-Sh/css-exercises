@@ -1,0 +1,16 @@
+/* style sheet for grouping selectors */
+
+.clickme {
+    background-color: #000000;
+    color: #ffffff;
+    }
+
+.clickme2 {
+    background-color: rgb(255, 255, 76);
+}
+
+.clickme,
+.clickme2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
